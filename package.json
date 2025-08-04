@@ -1,0 +1,23 @@
+{
+  "name": "ressoure_catalog_service",
+  "version": "1.0.0",
+  "description": "Ressoure Catalog Microersvice fpor Learning Path Generator App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moju666/ressoure_catalog_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moju666/ressoure_catalog_service/issues"
+  },
+  "homepage": "https://github.com/Moju666/ressoure_catalog_service#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
